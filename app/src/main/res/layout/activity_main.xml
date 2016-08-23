@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.charles.recycleview.View.PullRefreshRecycleView
+        android:id="@+id/ch_rv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+    </com.charles.recycleview.View.PullRefreshRecycleView>
+</RelativeLayout>
